@@ -1,0 +1,34 @@
+{
+  "coffeeshops": [
+    {
+      "id" : "1",
+      "name": "Coffeeshop Trefpunt",
+      "address": "Botersloot 7, 3011 HE Rotterdam",
+      "number": "010 555 5999",
+      "coordinate": {
+        "latitude": 51.921293,
+        "longitude": 4.485256
+      }
+    },
+    {
+      "id" : "2",
+      "name": "The Reef",
+      "address": "Oppert 1, 3011 HS Rotterdam",
+      "number": "010 213 1612",
+      "coordinate": {
+        "latitude": 51.922769,
+        "longitude": 4.483743
+      }
+    },
+    {
+      "id" : "3",
+      "name": "Coffeeshop 't Centrum",
+      "address": "Van Oldenbarneveltstraat 154-B, 3012 GX Rotterdam",
+      "number": "456789123",
+      "coordinate": {
+        "latitude": 51.920898,
+        "longitude": 4.473728
+      }
+    }
+  ]
+}
